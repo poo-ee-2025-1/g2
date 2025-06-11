@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RiscoServicoPublico
+comment1.params=fatorImportancia\ fatorContinuidade
+comment1.target=RiscoServicoPublico(double,\ double)
+comment2.params=
+comment2.target=double\ calcularRisco()
+numComments=3

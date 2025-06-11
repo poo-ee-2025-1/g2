@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AvaliadorDeRisco
+comment1.params=risco
+comment1.target=void\ avaliarRisco(projetospda.Risco)
+numComments=2

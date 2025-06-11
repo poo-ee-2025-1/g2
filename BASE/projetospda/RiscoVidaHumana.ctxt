@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RiscoVidaHumana
+comment1.params=fatorLocalizacao\ fatorEstrutura
+comment1.target=RiscoVidaHumana(double,\ double)
+comment2.params=
+comment2.target=double\ calcularRisco()
+numComments=3
